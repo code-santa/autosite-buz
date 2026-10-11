@@ -1,6 +1,6 @@
 # buz
 
-> Trusted Roofing & General Contractor Services in Austin
+> Trusted General Contractor Services in Austin, TX
 
 Automated static website generated and validated by **AutoSite Agency**.
 

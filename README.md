@@ -1,6 +1,6 @@
 # buz
 
-> Trusted General Contractor Services in Austin, TX
+> Trusted General Contractor Serving Austin
 
 Automated static website generated and validated by **AutoSite Agency**.
 
